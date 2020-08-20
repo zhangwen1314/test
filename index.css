@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+
+.box {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    color: #f60;
+}
